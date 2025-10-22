@@ -1,0 +1,16 @@
+Subject: ⚠️ Your Account Has Been Suspended – Verify Now!
+From: support@paypaI-security.com
+To: user@example.com
+Date: 22 Oct 2025
+
+Dear Customer,
+
+We have detected unusual activity on your PayPal account. 
+To secure your account, please verify your information immediately by clicking the link below:
+
+http://secure-paypal-login.com
+
+Failure to verify within 24 hours will result in account suspension.
+
+Thank you,
+PayPal Security Team
