@@ -21,7 +21,7 @@
 
 ---
 
-## 🕵️‍♂️ Phishing Indicators Identified
+##  Phishing Indicators Identified
 
 | Indicator | Description |
 |------------|-------------|
@@ -35,7 +35,7 @@
 
 ---
 
-## 🧩 Email Header Analysis
+## Email Header Analysis
 
 **Tool Used:** [MxToolbox Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
 
@@ -45,42 +45,15 @@
 - SPF/DKIM: Failed checks.
 - Reply-To: `helpdesk@unknownsupport.net`
 
----
 
-## ⚠️ Summary of Phishing Traits
-✅ Urgent Language  
-✅ Suspicious Links  
-✅ Sender Spoofing  
-✅ Header Mismatch  
-✅ Generic Greeting  
-✅ Failed SPF/DKIM  
-
----
-
-## 🔍 Conclusion
+##  Conclusion
 The email is a phishing attempt aiming to steal login credentials through social engineering and spoofing tactics.
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 - MxToolbox Header Analyzer  
 - Google Admin Toolbox  
 - VirusTotal  
 - Browser Hover Test  
 
----
-
-## 📎 Repository Structure
-```
-📂 Task-2-Phishing-Email-Analysis
-│
-├── README.md
-├── phishing_email_sample.txt
-├── header_analysis.pdf
-└── screenshots/
-```
-
----
-
-## 📤 Submission Link
-[Submit Here → https://forms.gle/8Gm83s53KbyXs3Ne9](https://forms.gle/8Gm83s53KbyXs3Ne9)
